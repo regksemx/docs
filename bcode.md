@@ -31,7 +31,7 @@
     
     ```json
     {
-      "payment_url": "https://example.com"
+      "qr_image": "data:image/png;base64"
     }
     
     ```
